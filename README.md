@@ -5,7 +5,7 @@
 [![reward](https://make.fun/badge/tiny-chess-01/sofikulxdd-web/tiny-chess-engine/reward.svg)](https://make.fun)
 
 An original chess engine for make.fun's tiny-chess-01: `main.py` is the
-whole engine, 3,477 bytes of Python 3.13 (standard library only), stored
+whole engine, 3,479 bytes of Python 3.13 (standard library only), stored
 as a zlib payload and its unpacker.
 
 - 10x12 mailbox board, flipped so the side to move is always uppercase
